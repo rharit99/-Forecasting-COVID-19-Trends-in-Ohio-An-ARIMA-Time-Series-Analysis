@@ -1,4 +1,3 @@
-<img width="784" alt="Screenshot 2024-04-06 at 9 44 32 PM" src="https://github.com/rharit99/Forecasting-of-COVID-19-Trends-in-Ohio---ARIMA-Time-Series-Analysis/assets/159074503/4c98c02b-8a52-4889-a57f-98423a7dacd5"># Forecasting-COVID-19-Trends-in-Ohio-An-ARIMA-Time-Series-Analysis
 
 🩺 Forecasting COVID-19 Trends in Ohio: An ARIMA Time Series Analysis
 
