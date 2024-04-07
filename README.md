@@ -1,4 +1,4 @@
-# Forecasting-COVID-19-Trends-in-Ohio-An-ARIMA-Time-Series-Analysis
+<img width="784" alt="Screenshot 2024-04-06 at 9 44 32 PM" src="https://github.com/rharit99/Forecasting-of-COVID-19-Trends-in-Ohio---ARIMA-Time-Series-Analysis/assets/159074503/4c98c02b-8a52-4889-a57f-98423a7dacd5"># Forecasting-COVID-19-Trends-in-Ohio-An-ARIMA-Time-Series-Analysis
 
 🩺 Forecasting COVID-19 Trends in Ohio: An ARIMA Time Series Analysis
 
@@ -27,4 +27,8 @@ This project illustrates the value of statistical models in supporting the manag
 ### Contributions to Public Health:
 - The project's forecasts offer a basis for proactive measures in public health planning.
 - Demonstrates ARIMA models' efficacy in processing and predicting trends from complex epidemiological data, setting the stage for future advancements in health analytics.
+
+- <img width="784" alt="Screenshot 2024-04-06 at 9 44 45 PM" src="https://github.com/rharit99/Forecasting-of-COVID-19-Trends-in-Ohio---ARIMA-Time-Series-Analysis/assets/159074503/24c2779f-f04e-43c6-a52d-1bf4f17b7174">
+
+
 
